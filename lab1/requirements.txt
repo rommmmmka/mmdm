@@ -1,0 +1,6 @@
+igraph
+ipython
+matplotlib
+notebook
+numpy
+pycairo
